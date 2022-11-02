@@ -1,0 +1,6 @@
+names:
+- guide_person
+- personINthewater
+nc: 2
+train: /content/gdrive/MyDrive/person/train.txt
+val: /content/gdrive/MyDrive/person/val.txt
