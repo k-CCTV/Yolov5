@@ -61,7 +61,7 @@ def cal_box_percent(x1, x2, y1, y2, a1, a2, b1, b2):
 print(len(roi_data))
 print(len(yolo_data))
 
-warn_cnt = 0
+warn_cnt = 1
 danger_cnt = 0
 cnt = 0
 box_percent = 0
@@ -76,7 +76,7 @@ for temp1, temp2 in zip(yolo_data, roi_data):
     if 'personINthewater' in temp1:
         danger_cnt = danger_cnt + 1
     else:
-        if len(yolo_num) > 1:
+        if len(roi_num) > 1:
             river_x1 = int(roi_num[1])
             river_y1 = int(roi_num[0])
             river_x2 = int(roi_num[3])
@@ -115,7 +115,7 @@ for temp1, temp2 in zip(yolo_data, roi_data):
 
 
 box_percent_avg = box_percent_sum / warn_cnt * 100
-
+warn_cnt = warn_cnt - 1
 #print(yolo_num)
 """
 for temp in yolo_data:

@@ -1,0 +1,65 @@
+guide_person 0.32 = 754,4,836,204 / personINthewater 0.39 = 726,135,802,230 / guide_person 0.43 = 221,63,266,137 / guide_person 0.46 = 721,133,800,232 / guide_person 0.47 = 242,69,295,144 / guide_person 0.60 = 215,60,249,119 / guide_person 0.65 = 917,51,1005,247 / guide_person 0.80 = 988,44,1081,246 / guide_person 0.89 = 753,189,889,439 / 
+guide_person 0.37 = 754,0,835,214 / guide_person 0.39 = 722,123,806,234 / guide_person 0.51 = 225,63,270,139 / guide_person 0.53 = 244,68,294,142 / guide_person 0.62 = 213,55,248,126 / guide_person 0.62 = 806,167,880,243 / personINthewater 0.70 = 723,131,800,232 / guide_person 0.73 = 922,47,993,241 / personINthewater 0.76 = 730,222,956,448 / guide_person 0.84 = 988,46,1083,245 / 
+guide_person 0.28 = 731,146,886,243 / guide_person 0.30 = 216,65,275,135 / guide_person 0.35 = 213,59,249,124 / guide_person 0.43 = 721,131,803,238 / personINthewater 0.50 = 721,254,996,475 / guide_person 0.56 = 491,40,646,320 / guide_person 0.58 = 804,170,885,253 / guide_person 0.67 = 237,71,298,143 / personINthewater 0.67 = 723,132,800,236 / guide_person 0.70 = 721,254,992,468 / guide_person 0.76 = 922,47,989,239 / guide_person 0.82 = 989,43,1082,244 / 
+guide_person 0.31 = 211,59,249,126 / guide_person 0.36 = 479,37,643,302 / guide_person 0.48 = 807,171,876,244 / guide_person 0.49 = 718,133,807,237 / guide_person 0.67 = 238,70,297,145 / personINthewater 0.72 = 723,132,799,236 / guide_person 0.75 = 922,47,988,238 / guide_person 0.84 = 988,42,1080,246 / guide_person 0.91 = 748,285,982,499 / 
+guide_person 0.31 = 229,69,273,138 / personINthewater 0.53 = 726,121,796,237 / guide_person 0.53 = 212,54,251,127 / guide_person 0.55 = 724,125,805,234 / guide_person 0.59 = 756,0,833,208 / guide_person 0.61 = 240,68,303,138 / guide_person 0.64 = 813,170,876,246 / guide_person 0.75 = 920,40,995,243 / guide_person 0.76 = 728,312,1005,515 / guide_person 0.82 = 988,41,1076,241 / guide_person 0.85 = 461,33,623,311 / 
+guide_person 0.49 = 801,164,879,248 / guide_person 0.50 = 211,52,250,127 / guide_person 0.54 = 722,114,805,231 / personINthewater 0.57 = 722,124,793,231 / guide_person 0.59 = 242,66,297,139 / guide_person 0.62 = 754,0,833,207 / guide_person 0.79 = 749,344,994,541 / guide_person 0.82 = 918,39,995,243 / guide_person 0.83 = 988,43,1077,239 / guide_person 0.86 = 429,27,604,325 / 
+guide_person 0.42 = 801,164,878,248 / guide_person 0.44 = 209,51,248,121 / guide_person 0.49 = 241,66,300,139 / guide_person 0.50 = 729,94,814,232 / guide_person 0.69 = 753,0,835,212 / guide_person 0.73 = 788,363,951,694 / guide_person 0.81 = 917,39,994,242 / guide_person 0.83 = 987,40,1075,238 / guide_person 0.87 = 416,24,597,328 / 
+guide_person 0.38 = 219,58,273,125 / guide_person 0.39 = 726,99,816,231 / personINthewater 0.40 = 768,389,1230,688 / personINthewater 0.44 = 720,121,801,229 / guide_person 0.54 = 746,4,835,227 / guide_person 0.64 = 798,160,888,247 / guide_person 0.65 = 245,60,304,133 / guide_person 0.75 = 924,37,1002,227 / guide_person 0.83 = 991,31,1076,227 / guide_person 0.88 = 407,23,604,321 / 
+guide_person 0.33 = 816,154,896,268 / guide_person 0.45 = 230,41,271,104 / guide_person 0.49 = 239,44,286,123 / guide_person 0.50 = 255,54,305,127 / guide_person 0.58 = 735,121,814,230 / personINthewater 0.67 = 740,115,815,229 / guide_person 0.71 = 942,32,1009,209 / guide_person 0.79 = 1009,36,1100,226 / guide_person 0.86 = 405,27,579,321 / 
+
+
+
+
+
+
+
+
+
+personINthewater 0.69 = 214,55,360,168 / 
+personINthewater 0.41 = 181,73,346,170 / 
+
+
+
+guide_person 0.60 = 34,6,212,219 / 
+personINthewater 0.75 = 645,223,863,436 / 
+
+personINthewater 0.43 = 637,189,829,408 / 
+personINthewater 0.27 = 0,118,149,218 / guide_person 0.31 = 671,187,856,402 / personINthewater 0.32 = 661,184,864,413 / 
+guide_person 0.37 = 675,182,842,429 / personINthewater 0.55 = 7,156,107,226 / 
+personINthewater 0.31 = 0,155,113,224 / personINthewater 0.59 = 659,184,852,431 / 
+guide_person 0.34 = 621,184,859,462 / guide_person 0.67 = 0,17,114,225 / 
+guide_person 0.61 = 0,17,99,232 / 
+personINthewater 0.67 = 640,224,831,381 / 
+personINthewater 0.56 = 0,129,75,234 / personINthewater 0.81 = 630,214,822,411 / 
+personINthewater 0.56 = 0,135,60,230 / personINthewater 0.79 = 659,220,832,433 / 
+personINthewater 0.31 = 0,133,39,225 / guide_person 0.46 = 651,221,829,460 / 
+
+personINthewater 0.76 = 658,242,794,452 / 
+personINthewater 0.71 = 621,244,796,458 / 
+personINthewater 0.81 = 639,250,801,464 / 
+guide_person 0.30 = 653,252,850,491 / personINthewater 0.58 = 646,257,859,490 / 
+personINthewater 0.79 = 639,258,804,477 / 
+personINthewater 0.74 = 641,253,807,467 / 
+personINthewater 0.56 = 646,270,810,467 / 
+personINthewater 0.76 = 651,260,813,489 / 
+personINthewater 0.61 = 643,259,825,482 / 
+guide_person 0.31 = 665,262,828,472 / 
+personINthewater 0.51 = 651,255,824,467 / guide_person 0.53 = 657,253,824,475 / 
+
+guide_person 0.49 = 653,245,806,469 / personINthewater 0.59 = 639,245,809,471 / 
+personINthewater 0.50 = 631,245,816,468 / guide_person 0.59 = 650,247,812,467 / 
+personINthewater 0.55 = 631,242,824,482 / guide_person 0.59 = 649,251,811,473 / 
+
+
+
+
+personINthewater 0.36 = 627,274,796,467 / 
+
+
+
+
+personINthewater 0.52 = 604,250,788,472 / guide_person 0.59 = 611,247,784,477 / 
+guide_person 0.75 = 621,236,785,465 / 
+personINthewater 0.46 = 611,234,798,473 / guide_person 0.75 = 613,225,791,476 / 
+personINthewater 0.83 = 628,218,804,469 / 

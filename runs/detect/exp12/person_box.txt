@@ -1,0 +1,282 @@
+guide_person 0.82 = 61,116,143,255 / guide_person 0.89 = 800,179,1102,636 / 
+guide_person 0.83 = 61,116,142,254 / guide_person 0.88 = 801,179,1110,638 / 
+guide_person 0.83 = 61,116,140,252 / guide_person 0.86 = 798,179,1119,639 / 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+guide_person 0.25 = 57,523,246,706 / personINthewater 0.57 = 59,517,258,712 / 
+
+
+
+
+personINthewater 0.40 = 119,504,312,668 / 
+
+personINthewater 0.41 = 110,482,378,681 / 
+personINthewater 0.31 = 127,452,416,654 / 
+personINthewater 0.79 = 145,487,409,634 / 
+personINthewater 0.74 = 140,478,420,630 / 
+guide_person 0.77 = 0,543,139,720 / guide_person 0.83 = 274,55,343,186 / guide_person 0.87 = 1080,92,1279,593 / 
+guide_person 0.71 = 0,538,136,717 / guide_person 0.83 = 277,51,355,190 / guide_person 0.87 = 1080,90,1280,595 / 
+guide_person 0.66 = 0,533,152,717 / guide_person 0.82 = 286,52,359,183 / guide_person 0.84 = 1085,88,1279,590 / 
+guide_person 0.73 = 0,530,160,714 / guide_person 0.80 = 288,51,366,181 / guide_person 0.82 = 1098,86,1279,581 / 
+guide_person 0.74 = 299,49,376,181 / guide_person 0.85 = 2,512,177,720 / guide_person 0.85 = 1085,82,1279,572 / 
+guide_person 0.80 = 308,47,379,180 / guide_person 0.81 = 1,500,181,720 / guide_person 0.86 = 1084,73,1279,574 / 
+guide_person 0.72 = 315,47,382,174 / guide_person 0.75 = 3,494,198,709 / guide_person 0.86 = 1079,74,1279,585 / 
+guide_person 0.37 = 658,82,703,153 / guide_person 0.77 = 316,45,392,174 / guide_person 0.85 = 12,493,209,709 / guide_person 0.86 = 1071,72,1279,578 / 
+guide_person 0.30 = 672,77,715,154 / guide_person 0.76 = 333,45,404,161 / guide_person 0.85 = 1058,77,1280,577 / guide_person 0.88 = 18,480,214,711 / 
+guide_person 0.69 = 338,47,408,173 / guide_person 0.85 = 1057,78,1280,575 / guide_person 0.88 = 17,468,215,717 / 
+guide_person 0.74 = 340,46,411,176 / guide_person 0.84 = 1046,77,1280,577 / guide_person 0.89 = 24,465,224,715 / 
+guide_person 0.30 = 674,74,732,153 / guide_person 0.80 = 342,45,414,176 / guide_person 0.82 = 1046,77,1280,575 / guide_person 0.90 = 38,457,233,717 / 
+guide_person 0.44 = 679,73,742,155 / guide_person 0.76 = 346,46,418,176 / guide_person 0.83 = 1048,75,1280,570 / guide_person 0.90 = 36,444,239,712 / 
+guide_person 0.47 = 679,72,743,154 / guide_person 0.76 = 345,43,420,176 / guide_person 0.83 = 1048,76,1280,572 / guide_person 0.90 = 37,436,243,710 / 
+guide_person 0.45 = 676,70,745,154 / guide_person 0.74 = 346,42,418,172 / guide_person 0.85 = 1044,77,1280,574 / guide_person 0.90 = 44,428,246,711 / 
+guide_person 0.43 = 677,70,743,154 / guide_person 0.76 = 344,39,420,177 / guide_person 0.85 = 1042,77,1280,575 / guide_person 0.90 = 46,421,247,713 / 
+guide_person 0.48 = 677,72,733,157 / guide_person 0.74 = 342,37,419,178 / guide_person 0.85 = 1042,79,1280,572 / guide_person 0.90 = 53,416,252,712 / 
+guide_person 0.32 = 672,74,726,158 / guide_person 0.65 = 330,38,423,176 / guide_person 0.85 = 1040,80,1280,570 / guide_person 0.90 = 50,418,235,718 / 
+guide_person 0.26 = 669,76,722,160 / guide_person 0.68 = 329,40,424,180 / guide_person 0.84 = 1041,79,1280,572 / guide_person 0.91 = 51,426,237,714 / 
+guide_person 0.35 = 670,72,722,158 / guide_person 0.65 = 335,41,411,178 / guide_person 0.84 = 1040,79,1280,573 / guide_person 0.90 = 47,425,235,717 / 
+guide_person 0.56 = 660,72,716,157 / guide_person 0.76 = 323,44,392,174 / guide_person 0.84 = 1036,78,1280,582 / guide_person 0.90 = 43,421,235,713 / 
+guide_person 0.72 = 321,45,393,178 / guide_person 0.85 = 1034,78,1279,580 / guide_person 0.89 = 46,414,232,711 / 
+guide_person 0.45 = 652,75,709,159 / guide_person 0.74 = 317,41,387,179 / guide_person 0.85 = 1032,77,1280,579 / guide_person 0.85 = 45,400,225,713 / 
+guide_person 0.49 = 650,72,706,154 / guide_person 0.79 = 312,38,379,179 / guide_person 0.84 = 46,398,221,713 / guide_person 0.84 = 1030,76,1280,576 / 
+guide_person 0.27 = 641,73,696,159 / guide_person 0.74 = 306,38,374,179 / guide_person 0.83 = 42,393,223,713 / guide_person 0.85 = 1042,78,1280,567 / 
+guide_person 0.70 = 298,41,368,180 / guide_person 0.84 = 38,396,227,713 / guide_person 0.86 = 1043,76,1280,575 / 
+guide_person 0.38 = 641,73,686,157 / guide_person 0.74 = 288,42,369,182 / guide_person 0.87 = 1050,74,1280,575 / guide_person 0.88 = 41,404,222,714 / 
+guide_person 0.47 = 633,75,687,155 / guide_person 0.75 = 288,34,361,172 / guide_person 0.85 = 38,406,218,710 / guide_person 0.86 = 1060,72,1280,572 / 
+guide_person 0.25 = 633,73,682,157 / guide_person 0.77 = 281,34,355,184 / guide_person 0.83 = 42,408,213,704 / guide_person 0.87 = 1077,73,1278,572 / 
+guide_person 0.82 = 278,36,352,183 / guide_person 0.83 = 45,405,212,710 / guide_person 0.85 = 1089,70,1279,569 / 
+guide_person 0.77 = 44,402,210,708 / guide_person 0.83 = 275,37,352,187 / guide_person 0.85 = 1097,71,1280,571 / 
+guide_person 0.28 = 624,91,673,157 / guide_person 0.78 = 48,393,205,717 / guide_person 0.85 = 272,35,352,190 / guide_person 0.86 = 1100,70,1280,574 / 
+guide_person 0.73 = 47,394,210,716 / guide_person 0.83 = 274,38,345,186 / guide_person 0.83 = 1116,72,1280,576 / 
+guide_person 0.77 = 49,394,211,713 / guide_person 0.79 = 275,39,344,186 / guide_person 0.82 = 1122,71,1280,579 / 
+guide_person 0.77 = 269,40,338,188 / guide_person 0.80 = 47,404,211,711 / guide_person 0.83 = 1132,74,1280,580 / 
+guide_person 0.79 = 265,39,336,187 / guide_person 0.82 = 48,405,219,707 / guide_person 0.82 = 1139,74,1280,586 / 
+guide_person 0.82 = 1140,73,1280,584 / guide_person 0.82 = 259,36,331,192 / guide_person 0.82 = 46,408,219,705 / 
+guide_person 0.81 = 258,37,328,192 / guide_person 0.81 = 46,407,219,706 / guide_person 0.82 = 1139,73,1280,584 / 
+guide_person 0.81 = 257,37,326,190 / guide_person 0.81 = 1140,73,1280,585 / guide_person 0.83 = 48,409,216,706 / 
+guide_person 0.80 = 258,39,323,188 / guide_person 0.81 = 47,407,219,705 / guide_person 0.82 = 1140,74,1280,585 / 
+guide_person 0.30 = 599,70,662,157 / guide_person 0.74 = 47,404,221,703 / guide_person 0.82 = 255,39,321,190 / guide_person 0.82 = 1141,74,1280,579 / 
+guide_person 0.72 = 46,410,212,708 / guide_person 0.81 = 251,44,319,189 / guide_person 0.82 = 1141,74,1280,579 / 
+guide_person 0.68 = 42,408,214,707 / guide_person 0.82 = 1140,74,1280,578 / guide_person 0.83 = 249,43,317,189 / 
+guide_person 0.32 = 1,8,40,143 / guide_person 0.67 = 42,396,227,705 / guide_person 0.81 = 250,46,316,193 / guide_person 0.82 = 1140,74,1280,579 / 
+guide_person 0.34 = 588,74,655,152 / guide_person 0.50 = 0,7,53,146 / guide_person 0.72 = 44,398,206,712 / guide_person 0.81 = 247,39,315,194 / guide_person 0.82 = 1139,72,1280,578 / 
+guide_person 0.44 = 590,75,656,150 / guide_person 0.51 = 0,9,55,145 / guide_person 0.73 = 45,398,202,711 / guide_person 0.80 = 245,39,313,191 / guide_person 0.82 = 1139,73,1279,576 / 
+guide_person 0.27 = 586,75,655,149 / guide_person 0.67 = 3,10,63,158 / guide_person 0.75 = 48,399,197,710 / guide_person 0.82 = 245,39,309,189 / guide_person 0.82 = 1140,73,1280,577 / 
+guide_person 0.78 = 47,399,192,713 / guide_person 0.78 = 243,39,308,190 / guide_person 0.82 = 1137,73,1280,576 / 
+guide_person 0.42 = 579,73,649,154 / guide_person 0.77 = 239,42,303,192 / guide_person 0.77 = 49,396,192,714 / guide_person 0.82 = 1138,73,1280,576 / 
+guide_person 0.43 = 582,72,653,150 / guide_person 0.76 = 237,43,301,187 / guide_person 0.78 = 47,404,193,697 / guide_person 0.82 = 1138,73,1280,576 / 
+guide_person 0.38 = 584,72,650,147 / guide_person 0.80 = 234,42,299,188 / guide_person 0.81 = 48,398,191,709 / guide_person 0.82 = 1137,73,1280,576 / 
+guide_person 0.32 = 583,70,645,148 / guide_person 0.43 = 16,19,78,164 / guide_person 0.80 = 230,41,296,193 / guide_person 0.81 = 45,399,193,706 / guide_person 0.82 = 1137,73,1280,575 / 
+guide_person 0.61 = 11,19,76,170 / guide_person 0.81 = 228,39,294,198 / guide_person 0.82 = 1138,73,1280,576 / guide_person 0.84 = 44,399,192,708 / 
+guide_person 0.56 = 13,21,78,164 / guide_person 0.81 = 228,38,293,193 / guide_person 0.82 = 1137,73,1280,574 / guide_person 0.82 = 43,401,194,707 / 
+guide_person 0.54 = 13,21,82,165 / guide_person 0.82 = 1136,73,1280,574 / guide_person 0.82 = 226,38,294,195 / guide_person 0.83 = 43,401,193,708 / 
+guide_person 0.35 = 578,73,640,150 / guide_person 0.57 = 13,21,82,158 / guide_person 0.81 = 226,38,292,190 / guide_person 0.82 = 1136,73,1280,574 / guide_person 0.83 = 44,402,192,707 / 
+guide_person 0.42 = 574,73,638,150 / guide_person 0.64 = 15,17,89,166 / guide_person 0.81 = 222,35,291,193 / guide_person 0.81 = 1134,70,1280,573 / guide_person 0.83 = 42,403,199,708 / 
+guide_person 0.37 = 574,73,636,150 / guide_person 0.65 = 16,17,91,165 / guide_person 0.73 = 42,397,208,707 / guide_person 0.80 = 221,34,289,193 / guide_person 0.81 = 1135,71,1280,573 / 
+guide_person 0.55 = 572,73,634,152 / guide_person 0.58 = 20,17,97,163 / guide_person 0.77 = 47,406,209,707 / guide_person 0.80 = 218,35,288,191 / guide_person 0.81 = 1134,70,1280,573 / 
+guide_person 0.54 = 572,73,634,151 / guide_person 0.59 = 20,17,97,163 / guide_person 0.78 = 47,406,210,707 / guide_person 0.80 = 218,35,288,191 / guide_person 0.81 = 1134,70,1280,573 / 
+guide_person 0.35 = 32,12,107,168 / guide_person 0.58 = 566,73,632,150 / guide_person 0.81 = 1133,71,1280,573 / guide_person 0.81 = 220,37,284,194 / guide_person 0.86 = 59,411,210,710 / 
+guide_person 0.52 = 566,74,630,149 / guide_person 0.80 = 219,38,282,198 / guide_person 0.81 = 1133,71,1280,573 / guide_person 0.86 = 70,406,223,712 / 
+guide_person 0.51 = 566,74,630,148 / guide_person 0.67 = 38,19,107,166 / guide_person 0.80 = 217,37,281,196 / guide_person 0.81 = 1134,71,1280,573 / guide_person 0.86 = 75,407,232,714 / 
+guide_person 0.57 = 563,73,627,149 / guide_person 0.75 = 215,40,279,186 / guide_person 0.81 = 1137,71,1280,573 / guide_person 0.86 = 78,408,239,712 / 
+guide_person 0.64 = 562,72,625,149 / guide_person 0.78 = 208,46,273,184 / guide_person 0.81 = 1131,70,1279,574 / guide_person 0.83 = 80,423,247,710 / 
+guide_person 0.65 = 562,72,623,149 / guide_person 0.77 = 206,45,272,183 / guide_person 0.80 = 1133,71,1279,574 / guide_person 0.90 = 80,432,254,718 / 
+guide_person 0.57 = 562,73,622,148 / guide_person 0.78 = 202,48,270,192 / guide_person 0.80 = 1132,70,1279,574 / guide_person 0.88 = 83,439,313,717 / 
+guide_person 0.53 = 562,71,619,147 / guide_person 0.80 = 198,47,269,179 / guide_person 0.81 = 1135,70,1279,575 / guide_person 0.87 = 81,449,339,720 / 
+guide_person 0.54 = 558,65,616,148 / guide_person 0.80 = 197,40,264,195 / guide_person 0.82 = 1136,70,1279,578 / guide_person 0.86 = 85,473,281,720 / 
+guide_person 0.48 = 558,65,614,144 / guide_person 0.79 = 196,39,263,196 / guide_person 0.82 = 1136,69,1279,579 / guide_person 0.84 = 85,481,288,718 / 
+guide_person 0.36 = 556,63,612,146 / guide_person 0.77 = 86,487,287,719 / guide_person 0.80 = 193,34,261,198 / guide_person 0.82 = 1136,68,1279,579 / 
+guide_person 0.27 = 552,59,610,145 / guide_person 0.28 = 83,495,292,718 / personINthewater 0.62 = 83,495,301,713 / guide_person 0.77 = 191,34,259,191 / guide_person 0.81 = 1134,73,1279,578 / 
+guide_person 0.49 = 546,58,612,154 / guide_person 0.81 = 101,499,329,717 / guide_person 0.81 = 1146,85,1279,578 / guide_person 0.81 = 187,32,256,192 / 
+guide_person 0.52 = 542,59,607,151 / guide_person 0.79 = 1145,91,1279,587 / guide_person 0.80 = 120,503,332,719 / guide_person 0.83 = 185,34,254,192 / 
+guide_person 0.49 = 538,62,608,157 / guide_person 0.73 = 114,509,338,717 / guide_person 0.76 = 1146,99,1278,578 / guide_person 0.82 = 184,38,253,186 / 
+guide_person 0.50 = 147,505,357,714 / guide_person 0.52 = 537,63,607,157 / personINthewater 0.52 = 148,506,357,712 / guide_person 0.70 = 1149,111,1278,573 / guide_person 0.82 = 185,40,252,184 / 
+guide_person 0.67 = 533,63,594,165 / guide_person 0.76 = 1169,130,1280,581 / guide_person 0.81 = 141,482,367,718 / guide_person 0.83 = 174,35,246,190 / 
+guide_person 0.60 = 531,63,591,161 / guide_person 0.64 = 1161,136,1280,589 / guide_person 0.76 = 173,476,385,717 / guide_person 0.82 = 171,35,242,185 / 
+guide_person 0.57 = 531,63,592,165 / guide_person 0.69 = 1164,137,1277,623 / guide_person 0.80 = 168,37,239,188 / guide_person 0.81 = 185,472,425,716 / 
+guide_person 0.60 = 525,61,591,169 / guide_person 0.74 = 87,31,138,176 / guide_person 0.76 = 1150,144,1279,610 / guide_person 0.81 = 166,37,236,184 / guide_person 0.87 = 204,463,451,716 / 
+guide_person 0.63 = 524,64,587,164 / guide_person 0.77 = 163,40,229,191 / guide_person 0.78 = 1163,144,1278,612 / guide_person 0.80 = 89,30,138,176 / guide_person 0.90 = 220,477,479,717 / 
+guide_person 0.76 = 521,65,582,169 / guide_person 0.79 = 160,38,227,185 / guide_person 0.83 = 88,29,139,177 / guide_person 0.84 = 1173,142,1280,602 / guide_person 0.91 = 231,480,492,716 / 
+guide_person 0.72 = 518,63,577,169 / guide_person 0.77 = 87,30,138,175 / guide_person 0.78 = 155,35,223,194 / guide_person 0.80 = 1158,142,1278,600 / guide_person 0.90 = 241,491,483,716 / 
+guide_person 0.68 = 514,60,577,173 / guide_person 0.74 = 1143,137,1280,596 / guide_person 0.78 = 86,30,137,173 / guide_person 0.79 = 155,35,219,192 / guide_person 0.89 = 238,492,452,715 / 
+guide_person 0.73 = 506,62,565,174 / guide_person 0.76 = 1136,136,1280,584 / guide_person 0.80 = 138,33,213,192 / guide_person 0.81 = 81,28,135,176 / guide_person 0.87 = 245,489,464,715 / 
+guide_person 0.74 = 507,63,559,170 / guide_person 0.76 = 83,29,133,174 / guide_person 0.76 = 139,35,205,195 / guide_person 0.76 = 1142,142,1280,570 / guide_person 0.87 = 243,491,473,715 / 
+guide_person 0.67 = 502,63,558,170 / guide_person 0.74 = 137,33,201,194 / guide_person 0.75 = 83,29,133,176 / guide_person 0.77 = 1141,135,1280,569 / guide_person 0.88 = 239,493,471,716 / 
+guide_person 0.70 = 496,62,556,174 / guide_person 0.78 = 134,31,197,191 / guide_person 0.80 = 1136,133,1280,568 / guide_person 0.81 = 77,29,129,176 / guide_person 0.88 = 245,486,480,714 / 
+guide_person 0.43 = 76,28,125,174 / guide_person 0.76 = 123,31,184,190 / guide_person 0.81 = 1145,116,1280,569 / guide_person 0.81 = 485,61,544,176 / guide_person 0.82 = 244,481,482,713 / 
+guide_person 0.52 = 67,28,115,170 / guide_person 0.65 = 117,39,176,185 / guide_person 0.79 = 482,63,540,176 / guide_person 0.84 = 248,476,484,713 / guide_person 0.87 = 1146,113,1278,565 / 
+guide_person 0.56 = 64,36,113,168 / guide_person 0.64 = 111,35,174,192 / guide_person 0.82 = 479,63,533,175 / guide_person 0.87 = 252,472,481,716 / guide_person 0.88 = 1145,104,1278,562 / 
+guide_person 0.49 = 63,35,111,164 / guide_person 0.74 = 469,63,528,171 / guide_person 0.75 = 99,32,166,190 / guide_person 0.88 = 252,472,480,718 / guide_person 0.89 = 1139,97,1278,566 / 
+guide_person 0.50 = 64,31,114,190 / guide_person 0.58 = 250,465,480,716 / personINthewater 0.60 = 243,474,483,708 / guide_person 0.66 = 86,34,157,192 / guide_person 0.77 = 459,61,520,174 / guide_person 0.86 = 1127,90,1275,559 / 
+guide_person 0.68 = 63,34,113,196 / guide_person 0.72 = 79,35,150,194 / guide_person 0.72 = 251,470,518,716 / guide_person 0.78 = 456,62,518,175 / guide_person 0.87 = 1124,91,1275,554 / 
+guide_person 0.39 = 62,27,110,186 / guide_person 0.62 = 73,37,147,191 / guide_person 0.78 = 452,60,515,178 / guide_person 0.86 = 251,464,548,716 / guide_person 0.88 = 1122,97,1275,556 / 
+guide_person 0.72 = 66,36,137,195 / guide_person 0.80 = 451,61,511,175 / guide_person 0.86 = 268,461,587,714 / guide_person 0.88 = 1121,101,1280,553 / 
+personINthewater 0.55 = 295,469,619,716 / guide_person 0.74 = 446,62,503,172 / guide_person 0.77 = 299,470,629,703 / guide_person 0.82 = 59,32,133,197 / guide_person 0.88 = 1113,102,1276,555 / 
+guide_person 0.76 = 445,62,496,170 / guide_person 0.82 = 310,469,635,703 / guide_person 0.84 = 55,31,129,194 / guide_person 0.87 = 1106,104,1274,551 / 
+guide_person 0.70 = 441,61,495,170 / guide_person 0.82 = 52,33,126,192 / guide_person 0.84 = 301,467,620,720 / guide_person 0.86 = 1104,100,1271,555 / 
+guide_person 0.65 = 434,61,493,168 / guide_person 0.81 = 47,35,122,192 / guide_person 0.85 = 306,465,640,720 / guide_person 0.88 = 1085,105,1276,553 / 
+guide_person 0.72 = 335,465,642,720 / guide_person 0.75 = 426,58,483,172 / guide_person 0.81 = 41,28,114,181 / guide_person 0.89 = 1082,97,1276,551 / 
+guide_person 0.68 = 421,56,481,173 / guide_person 0.71 = 354,459,647,720 / guide_person 0.77 = 29,39,104,184 / guide_person 0.88 = 1090,95,1274,556 / 
+guide_person 0.69 = 360,452,657,720 / guide_person 0.75 = 26,38,106,193 / guide_person 0.75 = 412,59,482,173 / guide_person 0.88 = 1098,91,1272,549 / 
+guide_person 0.68 = 370,447,690,720 / guide_person 0.75 = 409,60,467,173 / guide_person 0.78 = 24,32,96,194 / guide_person 0.89 = 1107,88,1267,551 / 
+guide_person 0.55 = 394,57,464,170 / guide_person 0.75 = 15,29,88,179 / guide_person 0.78 = 368,441,665,720 / guide_person 0.89 = 1098,86,1258,540 / 
+guide_person 0.61 = 390,63,452,171 / guide_person 0.73 = 8,37,83,188 / guide_person 0.73 = 363,437,675,720 / guide_person 0.89 = 1094,82,1249,540 / 
+personINthewater 0.49 = 359,436,664,710 / guide_person 0.67 = 373,442,670,708 / guide_person 0.68 = 383,59,448,173 / guide_person 0.72 = 11,25,73,176 / guide_person 0.89 = 1093,80,1237,540 / 
+guide_person 0.46 = 361,434,674,707 / guide_person 0.63 = 3,38,70,187 / personINthewater 0.64 = 338,432,670,708 / guide_person 0.68 = 376,60,442,173 / guide_person 0.87 = 1085,76,1228,542 / 
+guide_person 0.58 = 1,32,62,191 / guide_person 0.63 = 359,62,418,171 / guide_person 0.77 = 337,421,660,702 / guide_person 0.85 = 1063,76,1219,523 / 
+guide_person 0.63 = 337,59,413,174 / guide_person 0.69 = 0,44,43,186 / guide_person 0.80 = 346,405,646,711 / guide_person 0.89 = 1052,80,1212,523 / 
+guide_person 0.51 = 327,56,400,167 / guide_person 0.72 = 349,410,647,673 / guide_person 0.77 = 0,33,43,182 / guide_person 0.90 = 1043,83,1208,524 / 
+guide_person 0.56 = 317,58,388,173 / guide_person 0.60 = 0,30,39,189 / guide_person 0.77 = 312,389,659,708 / guide_person 0.89 = 1026,88,1197,523 / 
+guide_person 0.51 = 303,60,369,173 / guide_person 0.83 = 328,376,628,698 / guide_person 0.86 = 1013,97,1175,521 / 
+guide_person 0.59 = 295,58,360,177 / guide_person 0.87 = 1004,94,1169,519 / guide_person 0.87 = 322,375,623,687 / 
+guide_person 0.67 = 290,59,356,174 / guide_person 0.84 = 351,367,623,691 / guide_person 0.87 = 1004,96,1168,520 / 
+guide_person 0.62 = 359,355,622,672 / guide_person 0.75 = 277,57,352,176 / guide_person 0.86 = 1002,96,1149,525 / 
+guide_person 0.76 = 364,346,622,681 / guide_person 0.79 = 267,60,336,171 / guide_person 0.89 = 1002,104,1154,517 / 
+guide_person 0.49 = 367,354,629,659 / guide_person 0.79 = 262,59,330,174 / guide_person 0.88 = 1005,107,1156,516 / 
+guide_person 0.63 = 375,330,639,676 / guide_person 0.77 = 259,58,326,175 / guide_person 0.88 = 1012,110,1167,519 / 
+guide_person 0.27 = 364,336,643,690 / guide_person 0.80 = 262,57,324,176 / guide_person 0.88 = 1011,112,1176,516 / 
+guide_person 0.51 = 410,335,674,649 / guide_person 0.77 = 258,56,320,176 / guide_person 0.87 = 1014,109,1172,509 / 
+guide_person 0.76 = 257,58,319,175 / guide_person 0.80 = 417,321,685,672 / guide_person 0.87 = 1014,108,1163,514 / 
+guide_person 0.71 = 417,312,695,680 / guide_person 0.78 = 254,56,318,176 / guide_person 0.84 = 1013,111,1155,508 / 
+guide_person 0.65 = 438,305,709,652 / guide_person 0.82 = 253,55,316,172 / guide_person 0.85 = 1008,112,1156,500 / 
+guide_person 0.81 = 251,56,312,175 / guide_person 0.85 = 478,305,738,578 / guide_person 0.86 = 997,114,1152,502 / 
+guide_person 0.77 = 248,57,310,178 / guide_person 0.81 = 491,291,742,576 / guide_person 0.86 = 989,111,1152,507 / 
+guide_person 0.77 = 247,59,305,177 / guide_person 0.82 = 988,110,1159,497 / guide_person 0.84 = 512,283,753,558 / 
+guide_person 0.43 = 442,256,764,625 / guide_person 0.73 = 242,58,303,178 / guide_person 0.83 = 994,103,1162,491 / 
+guide_person 0.72 = 1005,96,1174,494 / guide_person 0.78 = 235,57,302,179 / 
+guide_person 0.71 = 560,221,794,571 / guide_person 0.74 = 232,55,297,182 / guide_person 0.77 = 1003,101,1178,488 / 
+guide_person 0.72 = 570,205,796,575 / guide_person 0.75 = 229,57,295,181 / guide_person 0.80 = 997,103,1168,488 / 
+guide_person 0.77 = 224,59,294,181 / guide_person 0.80 = 1000,101,1161,487 / guide_person 0.84 = 585,194,799,564 / 
+guide_person 0.60 = 578,170,836,574 / guide_person 0.78 = 1020,101,1157,491 / guide_person 0.80 = 217,60,281,181 / 
+guide_person 0.77 = 210,61,274,180 / guide_person 0.83 = 1017,100,1149,485 / guide_person 0.83 = 599,164,836,566 / 
+guide_person 0.75 = 204,60,271,184 / guide_person 0.80 = 1014,97,1154,485 / guide_person 0.88 = 619,163,840,572 / 
+guide_person 0.68 = 631,157,847,571 / guide_person 0.77 = 200,58,269,184 / guide_person 0.83 = 1013,97,1154,483 / 
+guide_person 0.80 = 190,62,254,178 / guide_person 0.86 = 1010,100,1149,471 / guide_person 0.88 = 660,142,854,574 / 
+guide_person 0.73 = 183,63,244,181 / guide_person 0.85 = 1005,102,1151,474 / guide_person 0.89 = 666,124,856,575 / 
+guide_person 0.78 = 173,59,240,187 / guide_person 0.87 = 999,105,1138,474 / guide_person 0.92 = 672,116,863,571 / 
+guide_person 0.77 = 167,58,237,189 / guide_person 0.87 = 991,108,1143,473 / guide_person 0.91 = 693,111,863,562 / 
+guide_person 0.76 = 156,61,226,189 / guide_person 0.88 = 979,105,1153,479 / guide_person 0.90 = 717,111,888,574 / 
+guide_person 0.71 = 152,64,222,191 / guide_person 0.87 = 984,102,1154,474 / guide_person 0.89 = 735,126,904,571 / 
+guide_person 0.72 = 145,61,214,190 / guide_person 0.87 = 982,103,1154,465 / guide_person 0.89 = 728,112,921,569 / 
+guide_person 0.78 = 141,62,206,185 / guide_person 0.88 = 981,104,1145,455 / guide_person 0.90 = 732,105,921,569 / 
+guide_person 0.38 = 746,103,927,378 / guide_person 0.77 = 131,62,198,189 / guide_person 0.89 = 973,107,1123,459 / 
+guide_person 0.80 = 127,63,192,185 / guide_person 0.80 = 753,92,924,557 / guide_person 0.88 = 973,108,1120,459 / 
+guide_person 0.76 = 119,64,179,192 / guide_person 0.88 = 759,109,929,558 / guide_person 0.90 = 980,113,1109,456 / 
+guide_person 0.79 = 110,64,173,186 / guide_person 0.88 = 773,103,937,557 / guide_person 0.90 = 979,113,1104,453 / 
+guide_person 0.78 = 97,65,162,188 / guide_person 0.86 = 777,92,951,548 / guide_person 0.87 = 967,106,1098,451 / 
+guide_person 0.79 = 90,62,159,205 / guide_person 0.84 = 959,111,1090,453 / guide_person 0.85 = 780,88,955,538 / 
+guide_person 0.61 = 84,79,147,205 / guide_person 0.84 = 956,109,1076,457 / guide_person 0.86 = 792,90,952,540 / 
+guide_person 0.73 = 78,63,142,194 / guide_person 0.84 = 954,113,1059,454 / guide_person 0.90 = 796,92,951,549 / 
+guide_person 0.75 = 64,67,129,192 / guide_person 0.78 = 940,110,1058,444 / guide_person 0.89 = 770,104,949,552 / 
+guide_person 0.72 = 60,68,118,203 / guide_person 0.78 = 935,110,1056,446 / guide_person 0.86 = 776,103,949,550 / 
+guide_person 0.64 = 931,105,1055,443 / guide_person 0.66 = 50,66,111,204 / guide_person 0.89 = 778,105,953,546 / 
+guide_person 0.62 = 929,106,1034,434 / guide_person 0.72 = 40,66,103,200 / guide_person 0.87 = 796,106,957,541 / 
+guide_person 0.78 = 24,72,91,211 / guide_person 0.89 = 814,117,977,547 / 
+guide_person 0.72 = 14,73,80,212 / guide_person 0.90 = 819,122,984,553 / 
+guide_person 0.73 = 7,73,73,212 / guide_person 0.90 = 824,124,976,552 / 
+guide_person 0.63 = 2,73,67,212 / guide_person 0.91 = 827,120,1003,549 / 
+guide_person 0.52 = 2,80,49,219 / guide_person 0.90 = 824,109,994,526 / 
+guide_person 0.53 = 1,74,39,216 / guide_person 0.90 = 822,108,978,530 / 
+guide_person 0.30 = 1,64,35,219 / guide_person 0.90 = 822,112,967,537 / 
+guide_person 0.89 = 803,118,967,536 / 
+guide_person 0.29 = 778,124,865,453 / guide_person 0.88 = 829,117,972,531 / 
+guide_person 0.87 = 791,102,971,525 / 
+guide_person 0.32 = 742,124,859,449 / guide_person 0.84 = 820,110,961,506 / 
+guide_person 0.77 = 737,125,848,443 / guide_person 0.86 = 834,110,956,515 / 
+guide_person 0.86 = 732,135,836,424 / guide_person 0.87 = 823,119,956,514 / 
+guide_person 0.86 = 824,115,959,513 / guide_person 0.87 = 732,132,834,434 / 
+guide_person 0.83 = 738,133,831,433 / guide_person 0.86 = 819,111,959,516 / 
+guide_person 0.81 = 739,139,831,426 / guide_person 0.83 = 819,98,955,509 / 
+guide_person 0.82 = 732,132,817,426 / guide_person 0.85 = 806,99,946,495 / 
+guide_person 0.79 = 720,130,810,425 / guide_person 0.89 = 801,102,939,501 / 
+guide_person 0.82 = 714,132,803,427 / guide_person 0.90 = 793,109,934,501 / 
+guide_person 0.82 = 697,132,800,423 / guide_person 0.89 = 794,113,926,501 / 
+guide_person 0.71 = 672,135,788,420 / guide_person 0.91 = 795,101,920,510 / 
+guide_person 0.81 = 670,131,785,421 / guide_person 0.88 = 785,106,920,489 / 
+guide_person 0.84 = 676,127,788,421 / guide_person 0.88 = 785,108,918,479 / 
+guide_person 0.82 = 669,125,783,423 / guide_person 0.88 = 781,113,916,492 / 
+guide_person 0.87 = 780,126,913,493 / 
+guide_person 0.54 = 655,128,770,429 / guide_person 0.87 = 773,121,918,490 / 
+guide_person 0.69 = 656,131,767,428 / guide_person 0.85 = 767,116,920,483 / 
+guide_person 0.27 = 629,127,764,429 / guide_person 0.84 = 766,117,913,470 / 
+guide_person 0.44 = 633,126,758,422 / guide_person 0.82 = 762,118,897,473 / 
+guide_person 0.26 = 593,103,755,511 / guide_person 0.87 = 759,117,891,479 / 
+guide_person 0.86 = 757,118,889,479 / 
+guide_person 0.85 = 755,112,883,464 / 
+guide_person 0.88 = 753,105,876,444 / 
+guide_person 0.88 = 752,103,873,426 / 
+guide_person 0.30 = 619,125,743,408 / guide_person 0.89 = 751,105,865,444 / 
+guide_person 0.25 = 623,121,740,402 / guide_person 0.90 = 748,106,863,457 / 
+guide_person 0.33 = 621,125,735,347 / guide_person 0.87 = 740,114,862,462 / 
+guide_person 0.85 = 739,114,871,462 / 
+guide_person 0.37 = 555,107,736,565 / guide_person 0.87 = 743,111,873,454 / 
+guide_person 0.27 = 555,113,741,592 / guide_person 0.82 = 746,110,865,440 / 
+guide_person 0.64 = 630,121,745,403 / guide_person 0.87 = 746,117,853,439 / 
+guide_person 0.55 = 633,118,745,404 / guide_person 0.87 = 748,119,853,443 / 
+guide_person 0.33 = 666,108,817,431 / guide_person 0.44 = 643,112,749,405 / guide_person 0.87 = 750,120,852,445 / 
+guide_person 0.42 = 636,115,743,402 / guide_person 0.87 = 747,116,851,441 / 
+guide_person 0.89 = 737,110,845,427 / 
+guide_person 0.55 = 627,125,734,379 / guide_person 0.89 = 732,106,843,419 / 
+guide_person 0.60 = 640,124,736,367 / guide_person 0.89 = 729,107,837,424 / 
+guide_person 0.54 = 646,125,737,317 / guide_person 0.86 = 717,112,834,426 / 
+guide_person 0.82 = 718,113,824,425 / 
+guide_person 0.84 = 716,114,824,427 / 
+guide_person 0.83 = 721,112,822,417 / 
+guide_person 0.83 = 718,114,817,415 / 
+guide_person 0.55 = 645,119,732,318 / guide_person 0.85 = 711,115,814,418 / 
+guide_person 0.71 = 647,121,731,310 / guide_person 0.82 = 710,119,815,424 / 
+guide_person 0.71 = 642,117,734,299 / guide_person 0.89 = 701,126,813,420 / 
+guide_person 0.59 = 634,120,737,282 / guide_person 0.90 = 695,127,814,419 / 
+guide_person 0.40 = 646,126,732,296 / guide_person 0.88 = 703,130,806,407 / 
+guide_person 0.83 = 689,129,806,401 / 
+guide_person 0.81 = 692,131,806,392 / 
+guide_person 0.84 = 664,131,796,399 / 
+guide_person 0.31 = 95,64,218,176 / guide_person 0.84 = 669,141,795,398 / 
+guide_person 0.44 = 97,65,218,176 / guide_person 0.84 = 671,142,789,403 / 
+guide_person 0.33 = 97,64,220,176 / guide_person 0.82 = 679,141,790,401 / 
+guide_person 0.80 = 680,142,789,406 / 
+guide_person 0.26 = 96,63,219,176 / guide_person 0.56 = 640,138,726,276 / guide_person 0.80 = 671,149,783,402 / 
+guide_person 0.31 = 98,62,218,175 / guide_person 0.64 = 637,133,727,268 / guide_person 0.82 = 677,152,783,404 / 
+guide_person 0.58 = 97,63,214,175 / guide_person 0.64 = 639,135,726,266 / guide_person 0.83 = 682,154,780,402 / 
+guide_person 0.53 = 95,64,213,175 / guide_person 0.62 = 631,138,732,268 / guide_person 0.82 = 680,160,779,400 / 
+guide_person 0.51 = 93,65,213,175 / guide_person 0.74 = 645,140,731,285 / guide_person 0.79 = 675,176,782,389 / 
+guide_person 0.35 = 90,66,213,173 / guide_person 0.73 = 649,141,730,286 / guide_person 0.74 = 673,180,782,386 / 
+guide_person 0.52 = 92,64,211,172 / guide_person 0.69 = 646,140,733,287 / guide_person 0.73 = 666,186,784,388 / 
+guide_person 0.50 = 93,63,210,171 / guide_person 0.71 = 663,194,780,388 / guide_person 0.74 = 652,139,740,274 / 
+guide_person 0.59 = 662,189,776,396 / guide_person 0.70 = 650,130,740,307 / 
+guide_person 0.26 = 660,206,784,399 / guide_person 0.59 = 649,117,758,354 / 
+guide_person 0.50 = 655,170,769,387 / guide_person 0.58 = 652,130,746,291 / 
+guide_person 0.32 = 651,218,782,397 / guide_person 0.76 = 649,132,746,273 / 
+guide_person 0.79 = 644,136,744,269 / 
+guide_person 0.32 = 646,212,784,404 / guide_person 0.75 = 641,135,745,274 / 
+guide_person 0.39 = 650,218,781,389 / guide_person 0.79 = 644,132,743,279 / 
+guide_person 0.34 = 653,215,774,392 / guide_person 0.72 = 647,129,745,288 / 
+guide_person 0.27 = 658,212,766,388 / guide_person 0.79 = 640,129,741,293 / 
+guide_person 0.47 = 664,212,773,382 / guide_person 0.78 = 640,131,739,305 / 
+guide_person 0.62 = 668,209,778,377 / guide_person 0.79 = 640,131,733,316 / 
+guide_person 0.71 = 672,204,788,384 / guide_person 0.75 = 642,132,732,310 / 
+guide_person 0.79 = 676,196,780,395 / guide_person 0.80 = 645,131,737,305 / 
+guide_person 0.81 = 642,130,735,313 / guide_person 0.81 = 672,191,784,392 / 
